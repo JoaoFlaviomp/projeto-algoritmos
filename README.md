@@ -1,7 +1,7 @@
 # Projeto de Algoritmos
 
 ## Descrição
-Este projeto foi desenvolvido durante a disciplina SIN213 - Projeto de Algoritmos, na Universidade Federal de Viçosa - Campus Rio Paranaíba. O objetivo principal é a implementação e análise de desempenho de diversos algoritmos de ordenação em C++.
+Este projeto foi desenvolvido durante a disciplina SIN213 - Projeto de Algoritmos, na Universidade Federal de Viçosa - Campus Rio Paranaíba. O objetivo principal é a implementação e análise de complexidade de diversos algoritmos de ordenação em C++.
 
 ## Algoritmos Implementados
 - Insertion Sort
@@ -31,17 +31,17 @@ Tamanhos de entrada testados:
 - 100000
 - 1000000
 
-O objetivo foi avaliar o desempenho em diversas situações, identificando o comportamento em cenários favoráveis e desfavoráveis.
+O objetivo foi avaliar o desempenho em diversas situações, identificando o comportamento em diversos cenários.
 
 ## Compilação e Execução
 Para compilar e executar o projeto, siga as instruções abaixo:
 
 ```bash
-g++ -o main main.cpp
-./main
+g++ -o main Main.cpp
+./Main
 ```
 
-Certifique-se de ter um compilador C++ instalado no seu sistema.
+Certifique-se de ter um compilador C++ instalado.
 
 ## Autor
 João Flávio Martins Pereira -> [Perfil no GitHub](https://github.com/JoaoFlaviomp)
